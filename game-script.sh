@@ -9,18 +9,15 @@ if [ ! -f "$FILE" ]; then
      touch "$FILE"
 fi
 
+# Use library to get the get random choice function
+source ./functions-library.sh
+
 # variable to reference the player by name
 read -p "Please enter your name: " username
 
 # By default both values will be 0 to keep data consistent
 games_played=0
 player_wins=0
-
-
-get_random_choice(){
-    # A random value between 0 and 2
-    echo $((RANDOM % 3))
-}
 
 determine_winner(){
     player=$1
@@ -53,22 +50,23 @@ while true; do
         break
     elif [ "$input" == "stats" ]; then
         # get the stats scripts and display the stats on the terminal
-        source ./stats-scripts.sh
-        calculate_stats
+        bash ./stats-scripts.sh
         # play the game
     elif [ "$input" == "play" ]; then
         while true; do
             read -p "Enter a choice (0 for rock, 1 for paper, 2 for scissors, 3 for exit): " player_selection
-            computer_choice=$(get_random_choice)
+            
+
+            computer_choice=$(get_random_choice 3)
             # Check the input is not alfabetic character  and it is numeric
-            if [[ ! "$player_slection" =~ ^[a-zA-Z]+$ ]] && [[ "$player_selection" =~ ^[0-9]+$ ]];
+            if [[ ! "$player_selection" =~ ^[a-zA-Z]+$ ]] && [[ "$player_selection" =~ ^[0-9]+$ ]];
             then
                 if [[ "$player_selection" -eq 3 ]]; then
                 # player does not want to play, show them previous menu to quit, show game stats or play again
                 # Store the stats on the file
-                echo "user_name=$username" >> $FILE
-                echo "Player wins=$player_wins" >> $FILE
-                echo "Games played=$games_played" >> $FILE
+                echo "User_name=$username" >> $FILE
+                echo "Player_wins=$player_wins" >> $FILE
+                echo "Games_played=$games_played" >> $FILE
                 break
                 # Check the value is not alfa character first
                 # Player pick Rock
