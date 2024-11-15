@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 # File to read and strore the stats of the different players
-FILE="game-stats.txt"
+FILE="/mnt/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1/game-stats.txt"
 
 #Check if the file exists
 if [ ! -f "$FILE" ]; then

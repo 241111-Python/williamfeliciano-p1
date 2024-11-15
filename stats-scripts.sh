@@ -1,5 +1,13 @@
 #!/usr/bin/bash
 
+LOGFILE="/mnt/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1/cron-log.txt"
+
+if [ ! -f "$LOGFILE" ]; then
+    # File not found create it
+    touch "$LOGFILE"
+fi
+
+echo "$(date)" >> "$LOGFILE"
 
 
 function win_percentage()
@@ -67,7 +75,7 @@ function saveStatsToFile()
     local player_loss_percentage=$6
     local player_win_loss_ratio=$7
 
-    FILE1="calculated-stats.txt"
+    FILE1="/mnt/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1/calculated-stats.txt"
 
     if [ ! -f "$FILE1" ]; then
         # File not found create it
@@ -102,7 +110,7 @@ function saveStatsToFile()
 function calculate_stats()
 {
 
-    FILE2="game-stats.txt"
+    FILE2="/mnt/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1/game-stats.txt"
     
     # Check if File exists
     if [ ! -f $FILE2 ] 
