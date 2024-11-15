@@ -14,8 +14,6 @@ else
     BASE_PATH="$WINDOWS_PATH"
 fi
 
-echo 
-
 # Use the correct path to source the library
 source "${BASE_PATH}/functions-library.sh"
 
