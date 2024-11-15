@@ -26,9 +26,6 @@ FILE="${BASE_PATH}/game-stats.txt"
 if [ ! -f "$FILE" ]; then
     # If the file doesn't exist, create it
     touch "$FILE"
-    echo "File $FILE created."
-else
-    echo "File $FILE already exists."
 fi
 
 
