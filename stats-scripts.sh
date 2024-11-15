@@ -1,14 +1,46 @@
 #!/usr/bin/bash
 
-LOGFILE="/mnt/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1/cron-log.txt"
+# Command line arguments
+TIMESTAMP=$1
 
-if [ ! -f "$LOGFILE" ]; then
+PATH=""
+
+# Absolute Path for each environment 
+UBUNTU_PATH="/mnt/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1"
+WINDOWS_PATH="/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1"
+
+if [ -d "$UBUNTU_PATH" ];
+then
+    # I am on Linux
+    PATH="$UBUNTU_PATH"
+    
+else
+    # I am using Windows
+   PATH="$WINDOWS_PATH"
+fi
+
+LOGFILE="/cron-log.txt"
+LOGFILE="${PATH}${LOGFILE}"
+
+
+# Reading/ creating logfile and logging into it
+###############################################################
+# tries to find the file
+if [ ! -f $"$LOGFILE" ]; then
     # File not found create it
     touch "$LOGFILE"
 fi
 
-echo "$(date)" >> "$LOGFILE"
-
+# teest if the TimeStamp argument is empty
+if [ -z "$1" ];
+then    
+    # $1 argument was empty
+echo "I ran from game script $(/usr/bin/date)" >> "$LOGFILE"
+else 
+    # $1 argument was provided
+   echo "I am being called from cron $TIMESTAMP" >> "$LOGFILE"
+fi
+################################################################
 
 function win_percentage()
 {
@@ -75,14 +107,15 @@ function saveStatsToFile()
     local player_loss_percentage=$6
     local player_win_loss_ratio=$7
 
-    FILE1="/mnt/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1/calculated-stats.txt"
+    FILE1="/calculated-stats.txt"
+    FILE1="${Path}${FILE1}"
 
     if [ ! -f "$FILE1" ]; then
         # File not found create it
         touch "$FILE1"
     fi
 
-    echo "Generating stats: $(date)" >> "$FILE1"
+    echo "Generating stats: $(/usr/bin/date)" >> "$FILE1"
     # test the name is only compose of alphanumeric and that both stats are 0 or greater than 0 like the file format expects
     if [[ "$player_name" =~ ^[a-zA-Z]+$ ]] && [[ "$player_wins" -ge 0 ]] && [[ "$player_games_played" -ge 0 ]];
     then
@@ -110,7 +143,8 @@ function saveStatsToFile()
 function calculate_stats()
 {
 
-    FILE2="/mnt/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1/game-stats.txt"
+    FILE2="/game-stats.txt"
+    FILE2="${PATH}${FILE2}"
     
     # Check if File exists
     if [ ! -f $FILE2 ] 

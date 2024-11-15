@@ -1,16 +1,37 @@
 #!/usr/bin/bash
 
-# File to read and strore the stats of the different players
-FILE="/mnt/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1/game-stats.txt"
 
-#Check if the file exists
-if [ ! -f "$FILE" ]; then
-     #I am here so the file does not exist let me create it
-     touch "$FILE"
+# Absolute Path for each environment 
+UBUNTU_PATH="/mnt/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1"
+WINDOWS_PATH="/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1"
+
+# Determine the correct path based on the environment
+if [ -d "$UBUNTU_PATH" ]; then
+    # Running in Ubuntu (WSL)
+    BASE_PATH="$UBUNTU_PATH"
+else
+    # Running in Windows (Git Bash or similar)
+    BASE_PATH="$WINDOWS_PATH"
 fi
 
-# Use library to get the get random choice function
-source ./functions-library.sh
+echo 
+
+# Use the correct path to source the library
+source "${BASE_PATH}/functions-library.sh"
+
+# File to read and store the stats of the different players
+FILE="${BASE_PATH}/game-stats.txt"
+
+# Check if the file exists
+if [ ! -f "$FILE" ]; then
+    # If the file doesn't exist, create it
+    touch "$FILE"
+    echo "File $FILE created."
+else
+    echo "File $FILE already exists."
+fi
+
+
 
 # variable to reference the player by name
 read -p "Please enter your name: " username
@@ -50,7 +71,7 @@ while true; do
         break
     elif [ "$input" == "stats" ]; then
         # get the stats scripts and display the stats on the terminal
-        bash ./stats-scripts.sh
+        source "${BASE_PATH}/stats-scripts.sh"
         # play the game
     elif [ "$input" == "play" ]; then
         while true; do

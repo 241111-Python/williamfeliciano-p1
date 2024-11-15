@@ -388,3 +388,3223 @@ Loss count: 5
 Loss percentage: 55
 win/loss ratio: 0.800
 -------------------------------------------
+Generating stats: Fri Nov 15 08:29:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 08:29:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 08:29:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 08:30:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 08:30:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 08:30:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 08:31:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 08:31:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 08:31:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 08:32:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 08:32:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 08:32:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 08:33:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 08:33:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 08:33:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 08:34:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 08:34:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 08:34:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 08:35:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 08:35:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 08:35:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 08:36:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 08:36:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 08:36:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 08:37:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 08:37:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 08:37:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 08:53:44 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 08:53:44 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 08:53:44 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 08:54:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 08:54:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 08:54:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 08:55:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 08:55:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 08:55:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 08:56:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 08:56:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 08:56:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 08:57:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 08:57:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 08:57:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 08:58:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 08:58:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 08:58:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 08:59:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 08:59:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 08:59:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:00:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:00:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:00:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:01:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:01:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:01:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:02:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:02:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:02:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:03:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:03:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:03:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:04:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:04:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:04:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:05:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:05:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:05:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:06:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:06:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:06:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:07:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:07:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:07:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:08:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:08:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:08:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:09:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:09:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:09:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:10:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:10:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:10:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:11:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:11:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:11:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:12:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:12:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:12:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:13:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:13:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:13:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:14:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:14:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:14:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:15:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:15:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:15:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:16:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:16:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:16:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:17:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:17:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:17:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:18:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:18:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:18:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:19:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:19:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:19:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:20:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:20:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:20:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:21:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:21:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:21:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:22:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:22:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:22:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:23:00 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:23:00 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:23:00 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:24:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:24:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:24:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:25:03 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:25:03 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:25:03 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:26:00 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:26:00 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:26:00 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:27:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:27:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:27:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:28:00 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:28:00 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:28:00 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:29:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:29:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:29:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:30:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:30:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:30:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:31:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:31:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:31:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:32:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:32:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:32:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:33:00 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:33:00 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:33:00 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:34:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:34:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:34:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:35:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:35:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:35:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:36:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:36:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:36:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:37:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:37:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:37:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:38:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:38:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:38:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:39:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:39:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:39:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:40:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:40:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:40:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:41:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:41:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:41:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:42:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:42:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:42:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:43:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:43:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:43:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:44:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:44:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:44:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:45:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:45:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:45:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:46:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:46:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:46:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:47:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:47:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:47:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:21 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:21 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:21 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:58 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:58 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:58 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:58 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:58 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:58 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:58 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:58 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:58 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:58 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:59 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:48:59 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 09:49:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:49:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:49:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:49:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 09:50:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:50:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:50:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:50:02 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 09:51:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:51:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:51:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:51:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 09:52:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:52:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:52:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:52:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 09:53:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:53:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:53:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:53:02 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 09:54:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:54:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:54:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:54:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 09:55:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:55:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:55:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:55:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 09:56:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:56:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:56:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:56:02 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 09:57:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:57:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:57:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:57:02 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 09:58:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:58:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:58:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:58:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 09:59:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 09:59:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 09:59:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 09:59:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 10:00:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 10:00:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 10:00:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 10:00:02 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 10:01:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 10:01:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 10:01:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 10:01:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 10:02:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 10:02:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 10:02:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 10:02:02 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 10:03:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 10:03:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 10:03:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 10:03:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 10:04:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 10:04:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 10:04:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 10:04:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 10:05:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 10:05:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 10:05:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 10:05:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 10:06:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 10:06:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 10:06:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 10:06:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 10:07:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 10:07:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 10:07:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 10:07:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 10:08:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 10:08:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 10:08:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 10:08:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 10:09:00 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 10:09:00 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 10:09:00 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 10:09:00 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 10:10:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 10:10:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 10:10:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 10:10:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 10:11:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 10:11:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 10:11:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 10:11:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 10:12:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 10:12:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 10:12:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 10:12:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 10:13:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 10:13:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 10:13:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 10:13:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 10:14:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 10:14:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 10:14:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 10:14:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 10:15:02 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 10:15:02 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 10:15:02 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 10:15:02 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: Fri Nov 15 10:16:01 EST 2024
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: Fri Nov 15 10:16:01 EST 2024
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: Fri Nov 15 10:16:01 EST 2024
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: Fri Nov 15 10:16:01 EST 2024
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
