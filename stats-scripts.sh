@@ -3,24 +3,30 @@
 # Command line arguments
 TIMESTAMP=$1
 
-PATH=""
+# Find and move inside to the directory the script is being ran from
+script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
 
 # Absolute Path for each environment 
-UBUNTU_PATH="/mnt/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1"
-WINDOWS_PATH="/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1"
+# UBUNTU_PATH="/mnt/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1"
+# WINDOWS_PATH="/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1"
 
-if [ -d "$UBUNTU_PATH" ];
-then
-    # I am on Linux
-    PATH="$UBUNTU_PATH"
+# if [ -d "$UBUNTU_PATH" ];
+# then
+#     # I am on Linux
+#     PATH="$UBUNTU_PATH"
     
-else
-    # I am using Windows
-   PATH="$WINDOWS_PATH"
-fi
+# else
+#     # I am using Windows
+#    PATH="$WINDOWS_PATH"
+# fi
 
-LOGFILE="/cron-log.txt"
-LOGFILE="${PATH}${LOGFILE}"
+LOGFILE="./cron-log.txt"
+# LOGFILE="${PATH}${LOGFILE}"
+FILE1="./calculated-stats.txt"
+# FILE1="${Path}${FILE1}"
+FILE2="./game-stats.txt"
+# FILE2="${PATH}${FILE2}"
 
 
 # Reading/ creating logfile and logging into it
@@ -35,7 +41,7 @@ fi
 if [ -z "$1" ];
 then    
     # $1 argument was empty
-echo "I ran from game script $(/usr/bin/date)" >> "$LOGFILE"
+echo "I ran from game script $(which date)" >> "$LOGFILE"
 else 
     # $1 argument was provided
    echo "I am being called from cron $TIMESTAMP" >> "$LOGFILE"
@@ -107,15 +113,14 @@ function saveStatsToFile()
     local player_loss_percentage=$6
     local player_win_loss_ratio=$7
 
-    FILE1="/calculated-stats.txt"
-    FILE1="${Path}${FILE1}"
+    
 
     if [ ! -f "$FILE1" ]; then
         # File not found create it
         touch "$FILE1"
     fi
 
-    echo "Generating stats: $(/usr/bin/date)" >> "$FILE1"
+    echo "Generating stats: $(which date)" >> "$FILE1"
     # test the name is only compose of alphanumeric and that both stats are 0 or greater than 0 like the file format expects
     if [[ "$player_name" =~ ^[a-zA-Z]+$ ]] && [[ "$player_wins" -ge 0 ]] && [[ "$player_games_played" -ge 0 ]];
     then
@@ -142,10 +147,6 @@ function saveStatsToFile()
 # Will attempt to read stats from game-stats.txt and calculate more information based on games_won and games_played
 function calculate_stats()
 {
-
-    FILE2="/game-stats.txt"
-    FILE2="${PATH}${FILE2}"
-    
     # Check if File exists
     if [ ! -f $FILE2 ] 
     then
@@ -165,6 +166,7 @@ function calculate_stats()
         local player_loss_count=0
         local player_loss_percentage=0
         local player_win_loss_ratio=0
+
 
         for i in {1..3}; do
             # || break 2 will break out of both loops if end of file is reached
@@ -211,11 +213,54 @@ function calculate_stats()
         #  this will also help the outer loop keep looping through the file without
         #  starting from the beginning again
     done < "$FILE2"
+
+    # save global stats with the help of awk
+   awk -F'=' '
+/^Player_wins=/ { total_wins += $2 }
+/^Games_played=/ { total_games += $2 }
+END {
+    total_losses = total_games - total_wins
+    if (total_games > 0) {
+        win_percentage = (total_wins / total_games) * 100
+        loss_percentage = (total_losses / total_games) * 100
+        win_loss_ratio = total_losses > 0 ? total_wins / total_losses : "Infinity"
+
+        # Print the results to the terminal
+        
+        print "----------------------------------"
+        print "Global Stats"
+        print "----------------------------------"
+        print "Total Wins: " total_wins
+        print "Total Losses: " total_losses
+        print "Global Win Percentage: " win_percentage "%"
+        print "Global Loss Percentage: " loss_percentage "%"
+        print "Win/Loss Ratio: " win_loss_ratio
+        print "----------------------------------"
+
+        # Print to file
+
+        printf "----------------------------------\n" >> "'"$FILE1"'"
+        printf "Global Stats\n" >> "'"$FILE1"'"
+        printf "----------------------------------\n" >> "'"$FILE1"'"
+        printf "Total Wins: %d\n", total_wins >> "'"$FILE1"'"
+        printf "Total Losses: %d\n", total_losses >> "'"$FILE1"'"
+        printf "Total Games: %d\n", total_games >> "'"$FILE1"'"
+        printf "Global Win Percentage: %.2f%%\n", win_percentage >> "'"$FILE1"'"
+        printf "Global Loss Percentage: %.2f%%\n", loss_percentage >> "'"$FILE1"'"
+        printf "Win/Loss Ratio: %.2f\n", win_loss_ratio >> "'"$FILE1"'"
+        printf "----------------------------------\n" >> "'"$FILE1"'"
+    }
+}
+' "$FILE2"
+
     
+    return 0   
 }
 
 
 calculate_stats
+
+
 
 
 

@@ -1,24 +1,29 @@
 #!/usr/bin/bash
 
+# Find and move inside to the directory the script is being ran from
+script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
 
 # Absolute Path for each environment 
-UBUNTU_PATH="/mnt/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1"
-WINDOWS_PATH="/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1"
+# UBUNTU_PATH="/mnt/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1"
+# WINDOWS_PATH="/c/Users/willi/Documents/DEV/REVATURE/williamfeliciano-p1"
 
-# Determine the correct path based on the environment
-if [ -d "$UBUNTU_PATH" ]; then
-    # Running in Ubuntu (WSL)
-    BASE_PATH="$UBUNTU_PATH"
-else
-    # Running in Windows (Git Bash or similar)
-    BASE_PATH="$WINDOWS_PATH"
-fi
+# # Determine the correct path based on the environment
+# if [ -d "$UBUNTU_PATH" ]; then
+#     # Running in Ubuntu (WSL)
+#     BASE_PATH="$UBUNTU_PATH"
+# else
+#     # Running in Windows (Git Bash or similar)
+#     BASE_PATH="$WINDOWS_PATH"
+# fi
 
 # Use the correct path to source the library
-source "${BASE_PATH}/functions-library.sh"
+# source "${BASE_PATH}/functions-library.sh"
+source "./functions-library.sh"
 
 # File to read and store the stats of the different players
-FILE="${BASE_PATH}/game-stats.txt"
+#FILE="${BASE_PATH}/game-stats.txt"
+FILE="./game-stats.txt"
 
 # Check if the file exists
 if [ ! -f "$FILE" ]; then
@@ -66,7 +71,8 @@ while true; do
         break
     elif [ "$input" == "stats" ]; then
         # get the stats scripts and display the stats on the terminal
-        source "${BASE_PATH}/stats-scripts.sh"
+       #source "${BASE_PATH}/stats-scripts.sh"
+       source ./stats-scripts.sh
         # play the game
     elif [ "$input" == "play" ]; then
         while true; do

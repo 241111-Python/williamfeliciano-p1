@@ -3608,3 +3608,412 @@ Loss count: 1
 Loss percentage: 33
 win/loss ratio: 2.0
 -------------------------------------------
+Generating stats: 
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: 
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: 
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: 
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: 
+-------------------------------------------
+hu stats:
+Games played: 2
+Win count: 1
+Win percentage: 50
+Loss count: 1
+Loss percentage: 50
+win/loss ratio: 1.0
+-------------------------------------------
+Generating stats: 
+-------------------------------------------
+hu stats:
+Games played: 7
+Win count: 3
+Win percentage: 42
+Loss count: 4
+Loss percentage: 57
+win/loss ratio: 0.750
+-------------------------------------------
+Generating stats: 
+-------------------------------------------
+guy stats:
+Games played: 4
+Win count: 0
+Win percentage: 0
+Loss count: 4
+Loss percentage: 100
+win/loss ratio: 0.0
+-------------------------------------------
+Generating stats: 
+-------------------------------------------
+hi stats:
+Games played: 4
+Win count: 2
+Win percentage: 50
+Loss count: 2
+Loss percentage: 50
+win/loss ratio: 1.0
+-------------------------------------------
+Generating stats: 
+-------------------------------------------
+William stats:
+Games played: 11
+Win count: 1
+Win percentage: 9
+Loss count: 10
+Loss percentage: 90
+win/loss ratio: 0.100
+-------------------------------------------
+Generating stats: 
+-------------------------------------------
+Sarah stats:
+Games played: 9
+Win count: 2
+Win percentage: 22
+Loss count: 7
+Loss percentage: 77
+win/loss ratio: 0.285
+-------------------------------------------
+Generating stats: 
+-------------------------------------------
+William stats:
+Games played: 13
+Win count: 3
+Win percentage: 23
+Loss count: 10
+Loss percentage: 76
+win/loss ratio: 0.300
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+william stats:
+Games played: 11
+Win count: 2
+Win percentage: 18
+Loss count: 9
+Loss percentage: 81
+win/loss ratio: 0.222
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+hu stats:
+Games played: 2
+Win count: 1
+Win percentage: 50
+Loss count: 1
+Loss percentage: 50
+win/loss ratio: 1.0
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+hu stats:
+Games played: 7
+Win count: 3
+Win percentage: 42
+Loss count: 4
+Loss percentage: 57
+win/loss ratio: 0.750
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+guy stats:
+Games played: 4
+Win count: 0
+Win percentage: 0
+Loss count: 4
+Loss percentage: 100
+win/loss ratio: 0.0
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+hi stats:
+Games played: 4
+Win count: 2
+Win percentage: 50
+Loss count: 2
+Loss percentage: 50
+win/loss ratio: 1.0
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+William stats:
+Games played: 11
+Win count: 1
+Win percentage: 9
+Loss count: 10
+Loss percentage: 90
+win/loss ratio: 0.100
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+hu stats:
+Games played: 2
+Win count: 1
+Win percentage: 50
+Loss count: 1
+Loss percentage: 50
+win/loss ratio: 1.0
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+hu stats:
+Games played: 7
+Win count: 3
+Win percentage: 42
+Loss count: 4
+Loss percentage: 57
+win/loss ratio: 0.750
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+guy stats:
+Games played: 4
+Win count: 0
+Win percentage: 0
+Loss count: 4
+Loss percentage: 100
+win/loss ratio: 0.0
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+hi stats:
+Games played: 4
+Win count: 2
+Win percentage: 50
+Loss count: 2
+Loss percentage: 50
+win/loss ratio: 1.0
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+William stats:
+Games played: 11
+Win count: 1
+Win percentage: 9
+Loss count: 10
+Loss percentage: 90
+win/loss ratio: 0.100
+-------------------------------------------
+----------------------------------
+Global Stats
+----------------------------------
+Total Wins: 22
+Total Losses: 53
+Global Win Percentage: 29.33%
+Global Loss Percentage: 70.67%
+Win/Loss Ratio: 0.42
+----------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+William stats:
+Games played: 21
+Win count: 4
+Win percentage: 19
+Loss count: 17
+Loss percentage: 80
+win/loss ratio: 0.235
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+Sonia stats:
+Games played: 5
+Win count: 3
+Win percentage: 60
+Loss count: 2
+Loss percentage: 40
+win/loss ratio: 1.500
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+Ji stats:
+Games played: 9
+Win count: 4
+Win percentage: 44
+Loss count: 5
+Loss percentage: 55
+win/loss ratio: 0.800
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+Will stats:
+Games played: 3
+Win count: 2
+Win percentage: 66
+Loss count: 1
+Loss percentage: 33
+win/loss ratio: 2.0
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+hu stats:
+Games played: 2
+Win count: 1
+Win percentage: 50
+Loss count: 1
+Loss percentage: 50
+win/loss ratio: 1.0
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+hu stats:
+Games played: 7
+Win count: 3
+Win percentage: 42
+Loss count: 4
+Loss percentage: 57
+win/loss ratio: 0.750
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+guy stats:
+Games played: 4
+Win count: 0
+Win percentage: 0
+Loss count: 4
+Loss percentage: 100
+win/loss ratio: 0.0
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+hi stats:
+Games played: 4
+Win count: 2
+Win percentage: 50
+Loss count: 2
+Loss percentage: 50
+win/loss ratio: 1.0
+-------------------------------------------
+Generating stats: /bin/date
+-------------------------------------------
+William stats:
+Games played: 11
+Win count: 1
+Win percentage: 9
+Loss count: 10
+Loss percentage: 90
+win/loss ratio: 0.100
+-------------------------------------------
+----------------------------------
+Global Stats
+----------------------------------
+Total Wins: 22
+Total Losses: 53
+Total Games: 75
+Global Win Percentage: 29.33%
+Global Loss Percentage: 70.67%
+Win/Loss Ratio: 0.42
+----------------------------------
